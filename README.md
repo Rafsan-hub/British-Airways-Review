@@ -16,5 +16,5 @@ The data used in this dashboard is sourced from various airline review platforms
 
 Explore the live version of the dashboard on Tableau by clicking the link below:
 
-👉 **[British Airways Review Dashboard](#)** *(Insert your Tableau link here)*
+👉 **[British Airways Review Dashboard](#)** *(https://public.tableau.com/app/profile/rafsan.jahangir/viz/Book1_17264627337190/Dashboard1?publish=yes)*
 
